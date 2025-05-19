@@ -63,7 +63,7 @@
   <a href="https://replit.com/github/TENSHI-TECH/TENSHI-XD">
     <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
   </a>
-  <a href="https://railway.app/new/template?template=https://github.com/TENSHI-XD/TENSHI-XD">
+  <a href="https://railway.app/new/template?template=https://github.com/Brox47/TENSHI-XD">
     <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
   </a>
   <a href="https://render.com/">

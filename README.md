@@ -43,7 +43,7 @@
 ## ⚙️ Deploy Easily
 
 ### 🔑 Get Your Session ID (1)
-[![TENSHI XD SESSION SERVE 1 ](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tenshi-xmd-session-id-by-dev-tenshi.onrender.com)/)
+[![TENSHI XD SESSION SERVE 1 ](https://img.shields.io/badge/TENSHI%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tenshi-xmd-session-id-by-dev-tenshi.onrender.com)/)
 
 
 

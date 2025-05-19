@@ -95,7 +95,7 @@ async function start() {
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["TENSHI-XD", "safari", "3.3"],
+            browser: ["TENSHI~XD~", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
@@ -114,7 +114,7 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("Connected Successfully INCONNU XD 🤍"));
+                    console.log(chalk.green("Connected Successfully TENSHI XD 🤍"));
                     Matrix.sendMessage(Matrix.user.id, { 
                         image: { url: "https://files.catbox.moe/h8d2yl.jpg" }, 
                         caption: `╓─────────────────╖
@@ -129,7 +129,7 @@ async function start() {
 *⚡ Your Prefix:* = *${prefix}*
 ═══════════════════
 
-⌛ REPO : https://github.com/INCONNU-BOY/INCONNU-XD-V1
+⌛ REPO : https://github.com/Brox47/TENSHI-XD
 
 ╚══════════════════╝
        ©️TENSHI TECH`

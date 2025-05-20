@@ -98,7 +98,7 @@
 ### ⚙️ Configuration `.env` File
 
 ```env
-SESSION_ID="TENSHI~XMD~"
+SESSION_ID="TENSHI~XD~"
 AUTO_READ_STATUS=true
 STATUS_READ_MSG="*Status Seen By TENSHI-XD ⚡*"
 AUTO_STATUS_REPLY=false
